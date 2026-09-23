@@ -1,3 +1,4 @@
 <?php
-header('Location: user_add.php');
+header('Location: /api/user_add.php');
+exit;
 ?>
